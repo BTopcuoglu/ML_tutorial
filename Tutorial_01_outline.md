@@ -1,8 +1,19 @@
 __Session 1: Introduction__
 
+*What is a Machine Learning model?*
+
+Machine learning is a set of methods that allow computers to learn from existing data and make predictions on new data.
+Machine learning models are programs learned by the computer. They predict which Amazon product you will buy next, how much value Bitcoin will lose in the coming month or when the cherry blossoms will peak in Washington DC. ML models are now being used to make high stake decisions by the judicial system to make parole decisions, by weather forecasts to predict air quality and by the financial system to decide who gets a loan.
+
+*Why use ML models in the microbiome field?*
+
+Machine learning models are increasingly used in medicine. ML models now automoate interpretation of the EKGs and detection of a lung nodules from a chest X-rays. There are numerous studies 
+
+*Problems with ML in the microbiome field*
+
 *Philosophy*
 
-I have never taken a course or workshop in machine learning (ML). I've read papers, Stack Overflow threads, python and R documentations on ML implementations and followed other scientists' ML projects on open source Github repositories. I've started by taking code from these sources and modifying it to get it to do what I wanted. As I spent more and more time reading and learning how to implement ML tools to my research, I realized that there is a lot of bad code and bad ML practices out there. My goal became to avoid common mistakes, to make my code reproducible and to create reliable ML models. I also wanted to share what I have learned the hard way with other scientists in the microbiome field so that we could avoid the misconceptions that surround the use of ML in the microbiome field.
+I have never taken a course or workshop in machine learning (ML). I've read papers, Stack Overflow threads, python and R documentations on ML implementations and followed other scientists' ML projects on open source Github repositories. I've started by taking code from these sources and modifying it to get it to do what I wanted. As I spent more and more time reading and learning how to implement ML tools to my research, I realized that there is a lot of inaccurate code and deceptive ML practices out there. My goal became to avoid common mistakes, to make my code reproducible and to create reliable ML models. I also wanted to share what I have learned the hard way with other scientists in the microbiome field so that we could avoid the misconceptions that surround the use of ML in the microbiome field.
 
 This is why I prepared a self-study guide for ML practicioners in the microbiome field. This tutorial will feature a series of lessons with video lectures, real-world case studies and hands-on practice exercises.
 
@@ -17,6 +28,10 @@ By the end of these tutorials, we will know how to:
 5. Train a ML model
 6. Use the ML model to make predictions
 7. Evaluate if our ML solved our problem
+
+More importantly, We will learn to:
+- Identify and avoid common mistakes in ML studies.
+- Create reproducible ML models.
 
 *What do you need to do these tutorials*
 
